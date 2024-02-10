@@ -11,7 +11,7 @@ Web Development:
 - As part of the Odin Project, created an on-screen [calculator](https://angiexz.github.io/calculator/) to practice JavaScript methods.
 
 Machine Learning: 
-- [upcoming] 
+- [ongoing] (https://github.com/angelaxzhu/MAIS202)
 
 
 <!---
