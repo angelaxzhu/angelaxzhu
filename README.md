@@ -9,6 +9,7 @@ Web Development:
 - As part of the Odin Project, created a [sign-up form](https://angiexz.github.io/form/) to practice making Forms in HTML and CSS.
 - As part of the Odin Project, created the browser version of an [Etch-a-Sketch](https://angiexz.github.io/etch_and_sketch/) to practice DOM manipulation, flexbox, and JavaScript methods. 
 - As part of the Odin Project, created an on-screen [calculator](https://angiexz.github.io/calculator/) to practice JavaScript methods.
+- As part of the Odin Project, creating a [webpage](https://angiexz.github.io/library/) displaying books read to practice JavaScript classes. Ongoing. 
 
 Machine Learning: 
 - [ongoing](https://github.com/angelaxzhu/MAIS202)
