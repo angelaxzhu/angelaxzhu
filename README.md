@@ -12,7 +12,7 @@ Web Development:
 - As part of the Odin Project, creating a [webpage](https://angiexz.github.io/library/) displaying books read to practice JavaScript classes. Ongoing. 
 
 Machine Learning: 
-- [ongoing](https://github.com/angelaxzhu/MAIS202)
+- As part of the Mcgill AI Bootcamp, trained a [random forest model](https://github.com/angelaxzhu/MAIS202) to classify what antibiotics a bacterial strain is resistant to. Built a simple web app with a front end and back end to display the project with Flask. 
 
 
 <!---
